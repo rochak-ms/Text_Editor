@@ -110,4 +110,4 @@ Pull request are welcome, you can make a constribution at the bottom of any docs
 
 If you have any question, Email me at: rochak.ms@gmail.com
 
-Find me on GitHub: [B-smd](https://github.com/rochak-ms)
+Find me on GitHub: [Rochak-ms](https://github.com/rochak-ms)
