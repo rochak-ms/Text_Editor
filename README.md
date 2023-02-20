@@ -76,10 +76,6 @@ THEN I should have proper build scripts for a webpack application
 
 ![DEMO](./Assets/Demo.gif)
 
-## Links
-
-- A Heroku app [text-editor](https://text---editor.herokuapp.com/)
-
 The following image shows the application's `manifest.json` file:
 
 ![Text-Editor](Assets/1.png)
@@ -91,6 +87,11 @@ The following image shows the application's registered service worker:
 The following image shows the application's IndexedDB storage:
 
 ![Text-Editor](Assets/3.png)
+
+## Links
+
+- A Heroku app [text-editor](https://text---editor.herokuapp.com/)
+- GitHub repository [Text_Editor](https://github.com/rochak-ms/Text_Editor.git)
 
 ## License
 
